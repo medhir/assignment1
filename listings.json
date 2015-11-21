@@ -1,0 +1,862 @@
+{
+    "entries": [
+        {
+            "google_name": "Academic Advising Center", 
+            "code": "AAF", 
+            "name": "Academic Advisement - Farrior Hall", 
+            "address": "100 Fletcher Dr, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "code": "AGRL", 
+            "name": "Plant Pathology Research Lab 2"
+        }, 
+        {
+            "google_name": "Anderson Hall", 
+            "code": "AND", 
+            "name": "Anderson Hall", 
+            "address": "1507 W University Ave, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Department of Animal Sciences", 
+            "code": "ANS", 
+            "name": "Animal Sciences", 
+            "address": "Gainesville, FL 32608, United States"
+        }, 
+        {
+            "code": "ANSC", 
+            "name": "Animal/Dairy Science Building"
+        }, 
+        {
+            "google_name": "UF Health Science Center Libraries", 
+            "code": "ARB", 
+            "name": "Academic Research - Health Sciences Center", 
+            "address": "1600 SW Archer Rd, Gainesville, FL 32610, United States"
+        }, 
+        {
+            "google_name": "School of Architecture", 
+            "code": "ARCH", 
+            "name": "Architecture", 
+            "address": "1480 Inner Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Elmore Hall for Administrative Services", 
+            "code": "ASF", 
+            "name": "Elmore Hall", 
+            "address": "Elmore Hall for Administrative Services, Gainesville, FL 32607, USA"
+        }, 
+        {
+            "google_name": "University Auditorium", 
+            "code": "AUD", 
+            "name": "University Auditorium", 
+            "address": "333 Newell Dr, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "code": "AWAX", 
+            "name": "Aquatic Weed Annex"
+        }, 
+        {
+            "google_name": "Bartram Hall", 
+            "code": "BAR", 
+            "name": "Bartram Hall", 
+            "address": "Bartram Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Beaty Towers", 
+            "code": "BEC", 
+            "name": "Beaty Commons", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Benton Hall", 
+            "code": "BEN", 
+            "name": "Benton Hall", 
+            "address": "United States"
+        }, 
+        {
+            "google_name": "Bruton-Geer Hall", 
+            "code": "BGH", 
+            "name": "Bruton-Geer Hall", 
+            "address": "Bruton-Geer Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Department of Environmental Engineering Sciences", 
+            "code": "BLK", 
+            "name": "Black Hall - Environmental Science", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "code": "BME", 
+            "name": "Broad Biomedical Engineering Building"
+        }, 
+        {
+            "google_name": "Biomedical Sciences Building", 
+            "code": "BMS", 
+            "name": "Biomedical Sciences", 
+            "address": "1275 Center Dr, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Broward Hall", 
+            "code": "BRO", 
+            "name": "Broward Hall", 
+            "address": "Broward Hall, 680 Broward Dr, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Bryant Space Science Center", 
+            "code": "BRT", 
+            "name": "Bryant Space Science Center", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Bryan Hall", 
+            "code": "BRY", 
+            "name": "Bryan Hall", 
+            "address": "1384 Union Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "The Veterinary Diagnostic Laboratory", 
+            "code": "BSU", 
+            "name": "Veterinary Medicine - Basic Sciences", 
+            "address": "2001 S Lincoln Ave, Urbana, IL 61802, United States"
+        }, 
+        {
+            "code": "CABL", 
+            "name": "Course viewed only on cable TV"
+        }, 
+        {
+            "google_name": "Carleton Auditorium", 
+            "code": "CAR", 
+            "name": "Carleton Auditorium", 
+            "address": "1475 Union Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Classroom Bldg 105", 
+            "code": "CBD", 
+            "name": "Classroom Building 105", 
+            "address": "Classroom Bldg 105, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "UF Cancer Genetics Research Complex", 
+            "code": "CGRC", 
+            "name": "Cancer/Genetics Research", 
+            "address": "2033 Mowry Rd, Gainesville, FL 32608, United States"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "CHE", 
+            "name": "Chemical Engineering", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "CLB", 
+            "name": "Chemistry Laboratory Building", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "UF Health Science Center Libraries", 
+            "code": "COM", 
+            "name": "Communicore - Health Sciences Center", 
+            "address": "1600 SW Archer Rd, Gainesville, FL 32610, United States"
+        }, 
+        {
+            "google_name": "University of Florida: School of Theatre and Dance", 
+            "code": "CON", 
+            "name": "Constans Theatre", 
+            "address": "687 McCarty Dr, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "code": "CREC", 
+            "name": "Citrus Hall, Ben Hill Griffin"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "CRR", 
+            "name": "Carr Hall", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "code": "CSFL", 
+            "name": "Crops and Soils Field Lab"
+        }, 
+        {
+            "google_name": "University of Florida/Department of Computer and Information Science and Engineering", 
+            "code": "CSE", 
+            "name": "Computer Science Engineering", 
+            "address": "412 Newell Dr, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "College of Liberal Arts and Sciences", 
+            "code": "DAU", 
+            "name": "Dauer Hall - Arts & Sciences", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Dental Science Bldg", 
+            "code": "DSB", 
+            "name": "Dental Science Building", 
+            "address": "Dental Science Bldg, Iowa City, IA 52242, USA"
+        }, 
+        {
+            "google_name": "Environmental Stress Lab", 
+            "code": "ESL", 
+            "name": "Environmental Stress Lab", 
+            "address": "Gainesville, FL 32608, United States"
+        }, 
+        {
+            "google_name": "University of Florida Entomology and Nematology Department", 
+            "code": "EYN", 
+            "name": "Entomology - Nematology", 
+            "address": "1881 Natural Area Dr, Gainesville, FL 32608, United States"
+        }, 
+        {
+            "google_name": "College of Fine Arts", 
+            "code": "FAA", 
+            "name": "Fine Arts A", 
+            "address": "101 Fine Arts Bldg A, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "University Gallery", 
+            "code": "FAB", 
+            "name": "Fine Arts B (Gallery)", 
+            "address": "400 SW 13th St, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Fine Arts C", 
+            "code": "FAC", 
+            "name": "Fine Arts C", 
+            "address": "Gainesville, FL 32601, United States"
+        }, 
+        {
+            "google_name": "Fine Arts C", 
+            "code": "FAD", 
+            "name": "Fine Arts D", 
+            "address": "Gainesville, FL 32601, USA"
+        }, 
+        {
+            "google_name": "Fifield Hall", 
+            "code": "FIF", 
+            "name": "Fifield Hall", 
+            "address": "Fifield Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "code": "FIRL", 
+            "name": "Plant Pathology Research Lab 1"
+        }, 
+        {
+            "google_name": "Flavet Field", 
+            "code": "FLAV", 
+            "name": "Flavet Field", 
+            "address": "Woodlawn Dr, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Florida Gymnasium", 
+            "code": "FLG", 
+            "name": "Florida Gym", 
+            "address": "Florida Gymnasium, Gainesville, FL 32608, USA"
+        }, 
+        {
+            "google_name": "Keene-Flint Hall", 
+            "code": "FLI", 
+            "name": "Keene-Flint Hall", 
+            "address": "80 Newell Dr, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Griffin-Floyd Hall", 
+            "code": "FLO", 
+            "name": "Griffin-Floyd Hall", 
+            "address": "230 Newell Dr, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "FSN", 
+            "name": "Food Science and Human Nutrition", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Gerson Hall", 
+            "code": "GER", 
+            "name": "Gerson Hall", 
+            "address": "1368 Union Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Graham Hall", 
+            "code": "GRAO", 
+            "name": "Graham Hall", 
+            "address": "United States"
+        }, 
+        {
+            "google_name": "University of Florida : Grinter Hall", 
+            "code": "GRI", 
+            "name": "Grinter Hall - The Graduate School", 
+            "address": "207 Grinter Hall, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Harn Museum of Art", 
+            "code": "HARN", 
+            "name": "Harn Museum of Art", 
+            "address": "3259 Hull Rd, Gainesville, FL 32607, United States"
+        }, 
+        {
+            "google_name": "Health Science Center Administrative Services", 
+            "code": "HCAD", 
+            "name": "Health Science Center Admin. Services", 
+            "address": "Health Science Center Administrative Services, Gainesville, FL 32608, USA"
+        }, 
+        {
+            "google_name": "Lori J. Sternal, LP", 
+            "code": "HDC", 
+            "name": "Human Development Center", 
+            "address": "1401 E 1st St, Duluth, MN 55805, United States"
+        }, 
+        {
+            "google_name": "Hough Hall", 
+            "code": "HGS", 
+            "name": "Hough Hall", 
+            "address": "Hough Hall, Gainesville, FL 32611, USA"
+        }, 
+        {
+            "google_name": "Spessard L. Holland Law Center", 
+            "code": "HOL", 
+            "name": "Holland Law Center", 
+            "address": "Spessard L. Holland Law Center, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Health Professions, Nursing, Pharmacy Bldg", 
+            "code": "HPNP", 
+            "name": "Health Professions, Nursing and Pharmacy Complex", 
+            "address": "Health Professions, Nursing, Pharmacy Bldg, 1225 Center Dr, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "code": "HTUS", 
+            "name": "South Barn - Sam Wall Animal Science"
+        }, 
+        {
+            "google_name": "University of Florida International Center", 
+            "code": "HUB", 
+            "name": "The Hub - International Studies Center", 
+            "address": "Hub, 1765 Stadium Rd, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "University of Florida: Hume Hall", 
+            "code": "HUME", 
+            "name": "Hume Hall", 
+            "address": "Museum Rd, Gainesville, FL 32601, United States"
+        }, 
+        {
+            "google_name": "Institute of Black Culture", 
+            "code": "IBLC", 
+            "name": "Institute of Black Culture", 
+            "address": "1510 W University Ave, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "IHLC", 
+            "name": "Institute of Hispanic-Latino Cultures", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Institute of Food and Agricultural Sciences", 
+            "code": "IIT", 
+            "name": "IFAS Information Technology", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Student Health Care Center", 
+            "code": "INF", 
+            "name": "Infirmary", 
+            "address": "Fletcher Dr, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "University of Florida: Jennings Hall", 
+            "code": "JENB", 
+            "name": "Jennings Hall B", 
+            "address": "1515 Museum Rd, Gainesville, FL 32612, United States"
+        }, 
+        {
+            "google_name": "The Courtyards", 
+            "code": "KEY", 
+            "name": "Keys Complex - Student Housing", 
+            "address": "1231 SW 3rd Ave, Gainesville, FL 32601, United States"
+        }, 
+        {
+            "google_name": "Larsen Hall", 
+            "code": "LAR", 
+            "name": "Larsen Hall", 
+            "address": "Larsen Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "The University of Florida George A. Smathers Libraries", 
+            "code": "LBW", 
+            "name": "Library West", 
+            "address": "1545 W University Ave, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Leigh Hall", 
+            "code": "LEI", 
+            "name": "Leigh Hall", 
+            "address": "Leigh Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Little Hall", 
+            "code": "LIT", 
+            "name": "Little Hall", 
+            "address": "Stadium Rd, Gainesville, FL 32601, United States"
+        }, 
+        {
+            "google_name": "Webb Livestock Pavilion", 
+            "code": "LSP", 
+            "name": "Livestock Pavilion, Webb", 
+            "address": "United States"
+        }, 
+        {
+            "google_name": "Department of Materials Science and Engineering", 
+            "code": "MAE", 
+            "name": "Materials Engineering", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "MAEA", 
+            "name": "Mechanical and Aerospace Engineering, Bldg. A", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "code": "MAEB", 
+            "name": "Mechanical and Aerospace Engineering, Bldg. B"
+        }, 
+        {
+            "code": "MAEC", 
+            "name": "Mechanical and Aerospace Engineering, Bldg. C"
+        }, 
+        {
+            "google_name": "Matherly Hall", 
+            "code": "MAT", 
+            "name": "Matherly Hall", 
+            "address": "1405 W University Ave, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "MBI", 
+            "name": "McKnight Brain Institute", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "McCarty Hall A", 
+            "code": "MCCA", 
+            "name": "McCarty Hall, Bldg. A", 
+            "address": "McCarty Hall A, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "McCarty Hall B", 
+            "code": "MCCB", 
+            "name": "McCarty Hall, Bldg. B", 
+            "address": "McCarty Hall B, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "McCarty Hall C", 
+            "code": "MCCC", 
+            "name": "McCarty Hall, Bldg. C", 
+            "address": "McCarty Hall C, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "McCarty Hall D", 
+            "code": "MCCD", 
+            "name": "McCarty Hall, Bldg D", 
+            "address": "McCarty Hall D, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "McGuire Center for Lepidoptera Research", 
+            "code": "MCG", 
+            "name": "McGuire Center for Lepidoptera Research", 
+            "address": "McGuire Center for Lepidoptera Research, Gainesville, FL 32608, USA"
+        }, 
+        {
+            "google_name": "Department of Microbiology and Cell Science", 
+            "code": "MCSB", 
+            "name": "Microbiology and Cell Science", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Rosenstiel Basic Medical Sciences Research Center", 
+            "code": "MSB", 
+            "name": "Medical Sciences - Stetson Hall", 
+            "address": "415 South St, Waltham, MA 02453, United States"
+        }, 
+        {
+            "google_name": "Marston Science Library", 
+            "code": "MSL", 
+            "name": "Marston Science Library", 
+            "address": "444 Newell Dr, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "University of Florida Music Building", 
+            "code": "MUB", 
+            "name": "Music Building", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Florida Museum of Natural History", 
+            "code": "MUS", 
+            "name": "Florida Museum of Natural History - Dickinson Hall", 
+            "address": "3215 Hull Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "College of Engineering", 
+            "code": "NEB", 
+            "name": "Engineering Building", 
+            "address": "1949 Stadium Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Newell Hall", 
+            "code": "NEW", 
+            "name": "Newell Hall", 
+            "address": "Newell Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Physics Building", 
+            "code": "NPB", 
+            "name": "Physics Building", 
+            "address": "United States"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "NRB", 
+            "name": "Nuclear Reactor", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Huston Huffman Fitness Center", 
+            "code": "NRG", 
+            "name": "Norman Gymnasium", 
+            "address": "1401 Asp Ave #170, Norman, OK 73019, United States"
+        }, 
+        {
+            "google_name": "Norman Hall", 
+            "code": "NRN", 
+            "name": "Norman Hall", 
+            "address": "Norman Hall, Gainesville, FL 32601, USA"
+        }, 
+        {
+            "google_name": "Norman Hall Addition", 
+            "code": "NRNA", 
+            "name": "Norman Hall Addition", 
+            "address": "Norman Hall Addition, Gainesville, FL 32601, USA"
+        }, 
+        {
+            "google_name": "Texas A&M University: Nuclear Science Center", 
+            "code": "NSC", 
+            "name": "Nuclear Sciences Center", 
+            "address": "1095 Nuclear Science Rd, College Station, TX 77843, United States"
+        }, 
+        {
+            "google_name": "Department of Animal Sciences", 
+            "code": "NUL", 
+            "name": "Animal Nutrition Labratory", 
+            "address": "1207 W Gregory Dr, Urbana, IL 61801, United States"
+        }, 
+        {
+            "google_name": "Newins-Ziegler Hall", 
+            "code": "NZH", 
+            "name": "Newins-Ziegler Hall", 
+            "address": "Newins-Ziegler Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "ODAA", 
+            "name": "Office of Development and Alumni Affairs", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Stanford University", 
+            "code": "OBS", 
+            "name": "Student Observatory", 
+            "address": "450 Serra Mall, Stanford, CA 94305, United States"
+        }, 
+        {
+            "google_name": "Curtis M. Phillips Center for the Performing Arts", 
+            "code": "PCPA", 
+            "name": "Phillips Center for the Performing Arts", 
+            "address": "3201 Hull Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Peabody Hall", 
+            "code": "PEA", 
+            "name": "Peabody Hall", 
+            "address": "Union Rd, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Phelps Memorial Hospital Center", 
+            "code": "PHL", 
+            "name": "Phelps Laboratory", 
+            "address": "701 N Broadway, Sleepy Hollow, NY 10591, United States"
+        }, 
+        {
+            "google_name": "PK Yonge Developmental Research School", 
+            "code": "PKY", 
+            "name": "P. K. Yonge Developmental Research School, 1080 SW 11 Street", 
+            "address": "1080 SW 11th St, Gainesville, FL 32601, United States"
+        }, 
+        {
+            "google_name": "Broward Pool", 
+            "code": "POOL", 
+            "name": "Florida Pool", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Florida Museum of Natural History", 
+            "code": "POW", 
+            "name": "Powell Hall - New Museum of Natural History", 
+            "address": "3215 Hull Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Physical Plant Offices", 
+            "code": "PPD", 
+            "name": "Physical Plant Offices", 
+            "address": "Physical Plant Offices, Gainesville, FL 32607, USA"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "PRL", 
+            "name": "Food and Environmental Toxicology Lab", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Shands at UF", 
+            "code": "PSB", 
+            "name": "Shands Patient Services", 
+            "address": "1600 SW Archer Rd, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Plant Science Facility", 
+            "code": "PSF", 
+            "name": "Plant Science Facility", 
+            "address": "Plant Science Facility, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Particle Sciences Inc", 
+            "code": "PST", 
+            "name": "Particle Sciences and Technology", 
+            "address": "3894 Courtney St, Bethlehem, PA 18017, United States"
+        }, 
+        {
+            "google_name": "Clinical Psychology Associates of North Central Florida", 
+            "code": "PSY", 
+            "name": "Psychology", 
+            "address": "2121 NW 40th Terrace Ste B, Gainesville, FL 32605, United States"
+        }, 
+        {
+            "google_name": "Pugh Hall", 
+            "code": "PUGH", 
+            "name": "Pugh Hall", 
+            "address": "Pugh Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "ARAMARK/Gator Dining Services", 
+            "code": "RCD", 
+            "name": "Recreation Center Dining", 
+            "address": "114 Rec Center, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Reitz Union Hotel", 
+            "code": "REI", 
+            "name": "Reitz Union", 
+            "address": "686 Museum Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Student Recreation & Fitness Center", 
+            "code": "RFC", 
+            "name": "Recreation and Fitness Center", 
+            "address": "244 Fletcher Dr, Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Rhines Hall", 
+            "code": "RHN", 
+            "name": "Rhines Hall", 
+            "address": "Rhines Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "University of South Florida", 
+            "code": "RLA", 
+            "name": "Reed Lab", 
+            "address": "4202 E Fowler Ave, Tampa, FL 33620, United States"
+        }, 
+        {
+            "google_name": "INVASIVE PLANT RESEARCH LABORATORY", 
+            "code": "RL1", 
+            "name": "Research Laboratory", 
+            "address": "1911 SW 34th St, Gainesville, FL 32608, United States"
+        }, 
+        {
+            "google_name": "Rinker Hall", 
+            "code": "RNK", 
+            "name": "Rinker Hall", 
+            "address": "Rinker Hall, 573 Newell Dr, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Frazier Rogers Hall", 
+            "code": "ROG", 
+            "name": "Rogers Hall", 
+            "address": "United States"
+        }, 
+        {
+            "google_name": "Rolfs Hall", 
+            "code": "ROL", 
+            "name": "Rolfs Hall", 
+            "address": "Rolfs Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "SBH", 
+            "name": "Steinbrenner Band Hall", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Sisler Hall", 
+            "code": "SIS", 
+            "name": "Sisler Hall - Chemistry Research Bldg", 
+            "address": "1680 Union Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "University of Florida Libraries", 
+            "code": "SMA", 
+            "name": "Library East, Smathers", 
+            "address": "1545 W University Ave, University of Florida, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Broward Pool", 
+            "code": "SOC", 
+            "name": "Stephen C. O'Connell Center Pool", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Diamond Village Commons Bldg", 
+            "code": "SPRC", 
+            "name": "Springs Commons Building", 
+            "address": "Diamond Village Commons Bldg, 1402 Diamond Rd, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Institute of Food and Agricultural Sciences", 
+            "code": "SRPT", 
+            "name": "IFAS Support Services", 
+            "address": "Gainesville, FL 32603, United States"
+        }, 
+        {
+            "google_name": "Criser Hall", 
+            "code": "SSB", 
+            "name": "Criser Hall", 
+            "address": "1478 Union Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Ben Hill Griffin Stadium", 
+            "code": "STA", 
+            "name": "Stadium, Ben Hill Griffin", 
+            "address": "157 Gale Lemerand Dr, Gainesville, FL 32601, United States"
+        }, 
+        {
+            "google_name": "David F. Miller Retailing Education and Research Center", 
+            "code": "STZ", 
+            "name": "Stuzin Hall - Business Building", 
+            "address": "1454, 100 Stuzin Hall Union Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Southwest Recreation Complex", 
+            "code": "SWC", 
+            "name": "SW Recreation Complex", 
+            "address": "13120 Vonn Rd, Largo, FL 33774, United States"
+        }, 
+        {
+            "google_name": "Shands Hospital Heart Failure", 
+            "code": "THC", 
+            "name": "Teaching Hospital and Clinics, Shands", 
+            "address": "4645 NW 8th Ave, Gainesville, FL 32605, United States"
+        }, 
+        {
+            "google_name": "University of Florida", 
+            "code": "TIG", 
+            "name": "Tigert Hall - UF Administration", 
+            "address": "Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Turlington Hall", 
+            "code": "TUR", 
+            "name": "Turlington Hall", 
+            "address": "330 Newell Dr, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Ustler Hall", 
+            "code": "UST", 
+            "name": "Ustler Hall", 
+            "address": "Ustler Hall, Gainesville, FL 32608, USA"
+        }, 
+        {
+            "google_name": "Air Force ROTC", 
+            "code": "VAN", 
+            "name": "Van Fleet Hall - ROTC", 
+            "address": "204 Van Fleet Hall, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "University of Florida: Small Animal Clinical Sciences", 
+            "code": "VET", 
+            "name": "Veterinary Science", 
+            "address": "2015 SW 16th Ave, Gainesville, FL 32608, United States"
+        }, 
+        {
+            "google_name": "Veterinary Medicine Academic Bldg", 
+            "code": "VMAW", 
+            "name": "Veterinary Medicine - Academic Wing", 
+            "address": "Veterinary Medicine Academic Bldg, Gainesville, FL 32608, USA"
+        }, 
+        {
+            "google_name": "Walker Hall", 
+            "code": "WAL", 
+            "name": "Walker Hall", 
+            "address": "1489 Union Rd, Gainesville, FL 32611, United States"
+        }, 
+        {
+            "google_name": "Wallace Hall Fine Arts Center", 
+            "code": "WALC", 
+            "name": "Wallace Hall", 
+            "address": "1001 George Wallace Dr, Gadsden, AL 35903, United States"
+        }, 
+        {
+            "code": "WARP", 
+            "name": "WARP Haus - PHP Midtowne Center"
+        }, 
+        {
+            "google_name": "Lake Wauburg", 
+            "code": "WAU", 
+            "name": "Lake Wauburg", 
+            "address": "Lake Wauburg, Florida 32667, USA"
+        }, 
+        {
+            "google_name": "Weil Hall", 
+            "code": "WEIL", 
+            "name": "Weil Hall", 
+            "address": "Weil Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Weimer Hall", 
+            "code": "WEIM", 
+            "name": "Weimer Hall", 
+            "address": "Weimer Hall, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Williamson Hall", 
+            "code": "WM", 
+            "name": "Williamson Hall", 
+            "address": "231 Pillsbury Dr SE, Minneapolis, MN 55455, United States"
+        }, 
+        {
+            "google_name": "Weed Sciences Field Bldg", 
+            "code": "WSFL", 
+            "name": "Weed Sciences Field Building", 
+            "address": "Weed Sciences Field Bldg, Gainesville, FL 32603, USA"
+        }, 
+        {
+            "google_name": "Yon Hall", 
+            "code": "YON", 
+            "name": "Yon Hall", 
+            "address": "Gainesville, FL 32608, United States"
+        }
+    ]
+}
